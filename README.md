@@ -220,7 +220,7 @@ Project Link: [https://github.com/koenig-jacob/koenig-jacob](https://github.com/
 [license-shield]: https://img.shields.io/github/license/koenig-jacob/koenig-jacob.svg?style=for-the-badge
 [license-url]: https://github.com/koenig-jacob/koenig-jacob/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[https://www.linkedin.com/in/jacob-koenig-b769a2318/]: https://linkedin.com/in/jacob-koenig
+[https://www.linkedin.com/in/jacob-koenig-b769a2318/]: https://linkedin.com/in/jacob-koenig-b769a2318
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
