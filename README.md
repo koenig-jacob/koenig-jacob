@@ -16,12 +16,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Jacob R. Koenig</h3>
 
   <p align="center">
-    project_description
+    Welcome to my ReadMe!
     <br />
-    <a href="https://github.com/koenig-jacob/koenig-jacob"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/koenig-jacob/koenig-jacob"><strong>See my projects »</strong></a>
     <br />
     <br />
     <a href="https://github.com/koenig-jacob/koenig-jacob">View Demo</a>
@@ -220,7 +220,7 @@ Project Link: [https://github.com/koenig-jacob/koenig-jacob](https://github.com/
 [license-shield]: https://img.shields.io/github/license/koenig-jacob/koenig-jacob.svg?style=for-the-badge
 [license-url]: https://github.com/koenig-jacob/koenig-jacob/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[https://www.linkedin.com/in/jacob-koenig-b769a2318/]: https://linkedin.com/in/koenig-jacob
+[https://www.linkedin.com/in/jacob-koenig-b769a2318/]: https://linkedin.com/in/jacob-koenig
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
