@@ -12,9 +12,6 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <a href="https://github.com/koenig-jacob/koenig-jacob">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Jacob R. Koenig</h3>
 
@@ -35,7 +32,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+eMail - email@email_client.com
 
 Github Page: [https://github.com/koenig-jacob/koenig-jacob](https://github.com/koenig-jacob)
 
