@@ -18,7 +18,7 @@
   <p align="center">
     Welcome to my ReadMe!
     <br />
-    <a href="https://github.com/koenig-jacob/koenig-jacob"><strong>See my projects »</strong></a>
+    <a href="https://github.com/koenig-jacob"><strong>I have no public projects yet lol »</strong></a>
     <br />
     <br />
     <a href="https://github.com/koenig-jacob/koenig-jacob/blob/main/README.md#contact">Contact</a>
@@ -32,9 +32,7 @@
 <!-- CONTACT -->
 ## Contact
 
-eMail - email@email_client.com
-
-Github Page: [https://github.com/koenig-jacob/koenig-jacob](https://github.com/koenig-jacob)
+Email - koenig.jacob@ufl.edu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
